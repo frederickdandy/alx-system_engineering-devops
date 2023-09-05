@@ -1,2 +1,2 @@
 #!/bin/bash
-git show HEAD:/etc/passwd HEAD:/etc/hosts
+cat /etc/passwd /etc/hosts
